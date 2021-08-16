@@ -24,6 +24,6 @@ public class AnimalExam {
 	}
 	// Dog 객체가 대입되면 dog객체의 메소드, cat 객체가 대입되면 cat객체 메소드
 	public static void animalSound(Animal animal) {
-		animal.sound();
+		animal.sound();//
 	}
 }
